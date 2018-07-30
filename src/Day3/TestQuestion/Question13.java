@@ -1,5 +1,10 @@
 package Day3.TestQuestion;
 
+/*
+ * 다음 프로그램의 출력 결과는?
+ * 정답 : 12
+ */
+
 public class Question13 {
     public static void main(String[] args) {
         int count = 3;
