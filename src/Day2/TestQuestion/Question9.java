@@ -1,8 +1,13 @@
 package Day2.TestQuestion;
 
 import java.util.Scanner;
+/*
+ * 달걀 456개를 12개씩 담을 수 있는 상자의 수를 삼항 연산자를 이용하여 실행 결과와 같이 출력되도록 작성하시오.
+ * 실행 결과 : 달걀 456개를 12개씩 담을 수 있는 상자의 수는 38개
+ */
 
-public class Question3 {
+
+public class Question9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
