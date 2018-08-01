@@ -1,4 +1,4 @@
-package Day2.TestQuestion;
+package Day2.Test1;
 
 /*
  * 정수형 정수 27890의 오른쪽에서 8번째 비트와 9번째 비트가 각각 어떻게 되는지 실행결과와 같이 연산자를 이용하여 작성하시오

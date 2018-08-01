@@ -1,4 +1,4 @@
-package Day3.TestQuestion;
+package Day3.Test2;
 
 /*
  * 다음 프로그램의 출력 결과는?

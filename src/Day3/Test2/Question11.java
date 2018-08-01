@@ -1,4 +1,4 @@
-package Day3.TestQuestion;
+package Day3.Test2;
 
 /*
  * 다음 프로그램의 15줄에 14번을 넣어 실행할때 결과는?

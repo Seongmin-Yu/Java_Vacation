@@ -1,4 +1,4 @@
-package Day3.TestQuestion;
+package Day3.Test2;
 
 /*
  * 50개의 난수를 만들어 while 문과 if 문을 사용해서 다음과 같이 출력하시오.

@@ -1,4 +1,4 @@
-package Day1.Error;
+package Day1;
 
 import java.util.Scanner;
 

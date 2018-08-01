@@ -1,4 +1,4 @@
-package Day2.TestQuestion;
+package Day2.Test1;
 
 import java.util.Scanner;
 /*

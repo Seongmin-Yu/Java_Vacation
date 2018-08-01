@@ -1,4 +1,4 @@
-package Day1.Error;
+package Day1;
 
 public class Test2 {
     public static void main(String[] args) {
